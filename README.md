@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mrinalinigarg
-- 👀 I’m interested in Data Science
-- 💞️ I’m actively looking for Full-time data science roles in the Unites States
+- 👋 Hi, I’m Mrin
+- 👀 I’m at Generative AI Solution's Architect and Delivery Lead for Client Deliverables
+- 💞️ I’m actively looking for Full-time data science roles in the NYC,Unites States
 - 📫 How to reach me : mnln17@hawk.iit.edu , https://www.linkedin.com/in/iammrinalini/
 
 <!---
